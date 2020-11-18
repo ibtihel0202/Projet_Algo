@@ -1,6 +1,9 @@
 certifi==2020.6.20
 chardet==3.0.4
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+docopt==0.6.2
+idna==2.10
+pipreqs==0.4.10
+requests==2.25.0
 numpy==1.18.5
 urllib3==1.25.9
-yapf @ file:///tmp/build/80754af9/yapf_1593528177422/work
+yarg==0.1.9
